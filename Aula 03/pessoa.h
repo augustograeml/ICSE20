@@ -1,3 +1,4 @@
+//versão 5.0.2.1570 do starUML
 #include <stdio.h>
 class Pessoa
 {
