@@ -4,6 +4,8 @@
 ElAluno::ElAluno()
 {
     pAl = NULL;
+    pProx = NULL;
+    pAnte = NULL;
 
 }
 ElAluno::~ElAluno()
